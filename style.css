@@ -137,6 +137,7 @@ section h2{
     }
     #skills  ul li, #projects ul li {
         width: 250px;
+         text-align: center;
 
     }
     #profil p {
